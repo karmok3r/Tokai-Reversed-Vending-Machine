@@ -151,7 +151,7 @@ Interested in this project or potential collaborations?
 ## 🤝 Acknowledgments
 
 Special thanks to:
-- **Khulna University** for academic support and collaboration
+- **Rajshahi University of Engineering & University** & **Khulna University** for academic support and collaboration
 - **Project advisors** for guidance and mentorship
 - **Team members** for dedication and innovative thinking
 - **Industry partners** for technical insights
